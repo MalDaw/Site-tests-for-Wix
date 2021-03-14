@@ -1,0 +1,21 @@
+Summary:   Site is not completely in English.
+
+Description:   Posts section, Contact button and Contact Form are in Polish instead of english.
+
+Steps:
+
+1. Open the https://ladaczek123.wixsite.com/dawidmalyska website.
+2. Locate the elements from the screenshots.
+
+
+
+Actual Result:
+Posts section, Contact button and Contact Form are in Polish instead of english.
+
+Expected:
+Site is in one language.
+
+
+Note:
+1. Please see the screenshots attached in branch "Issues Attachments"
+
